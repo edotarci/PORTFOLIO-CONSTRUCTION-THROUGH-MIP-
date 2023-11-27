@@ -23,4 +23,4 @@ WT in time (Sheet):
 
 The folder Stock contains all of the data on which the calculations are based. 
 
-The file "MIP for Portfolio Construction.ipnyb" is a Jupiter notebook with all of the code used.
+The file "portfolioconstruction.ipynb" is a Jupiter notebook with all of the code used.
